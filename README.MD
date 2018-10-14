@@ -6,4 +6,4 @@ Camera app that lets users take a camera pic or load one from their gallery.
 Nick Carmont
 
 ## Demo
-![](Link-shortener-demo.gif)
+![](android-camera-app-demo.gif)
